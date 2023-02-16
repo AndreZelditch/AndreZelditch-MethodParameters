@@ -26,6 +26,6 @@ public class Lab {
      * @return text.
      */
     public String copy(String text){
-        syste.out.println(String)
+        system.out.println(String)
     }
 }
